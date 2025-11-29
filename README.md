@@ -1,19 +1,12 @@
 Create a single-page personal profile website that includes:
 
-Proper metadata (title, description, author, charset UTF-8, viewport)
-
-A favicon
-
-A main heading using <h1>
-
-At least two subheadings using <h2> and <h3>
-
-Multiple paragraphs using <p>
-
-A profile image using the <img> tag with proper attributes
-
-At least one line break (<br>)
-
-At least one horizontal rule (<hr>)
+Proper metadata (title, description, author, charset UTF-8, viewport)<br/>
+A favicon<br/>
+A main heading <br/>
+At least two subheadings<br/>
+Multiple paragraphs<br/>
+A profile image <br/>
+At least one line break <br/>
+At least one horizontal rule<br/>
 
 Your webpage must display all these elements clearly in HTML.
